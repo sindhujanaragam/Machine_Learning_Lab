@@ -1,0 +1,11 @@
+student_id,age,sex,embarked,purchased,marks
+1,20,Male,S,0,78
+2,21,Female,C,1,88
+3,,Female,S,0,65
+4,22,Male,Q,1,91
+5,20,Female,C,0,72
+6,23,Male,S,1,85
+7,21,Female,Q,0,69
+8,22,Male,C,1,93
+9,24,Female,S,1,89
+10,20,Male,Q,0,60
